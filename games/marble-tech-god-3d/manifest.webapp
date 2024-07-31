@@ -1,0 +1,28 @@
+{
+  "version": "0.3.9",
+  "name": "Marble Mouse 3D",
+  "subtitle": "Roll around in 3D levels",
+  "description": "Tilt levels with real-time physics to get Marble Mouse to the goal!",
+  "type": "web",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Varun R.",
+    "url": "https://www.varunramesh.net"
+  },
+  "icons": {
+    "56": "/kaios-icon-56.png",
+    "112": "/kaios-icon-112.png"
+  },
+  "default_locale": "en-US",
+  "fullscreen": true,
+  "categories": [
+    "games"
+  ],
+  "locales": {
+    "en-US": {
+      "name": "Marble Mouse 3D",
+      "subtitle": "Roll around in 3D levels",
+      "description": "Tilt levels with real-time physics to get Marble Mouse to the goal!"
+    }
+  }
+}
